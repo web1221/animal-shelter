@@ -30,3 +30,20 @@ h3{
   font-style: italic;
 
 }
+
+@media screen and (max-width: 1000px){
+  body{
+    background-color: teal;
+    color: black;
+
+  }
+  .column p {
+    color: white;
+  }
+}
+@media screen and (max-width: 500px){
+    body {
+      background-color: orange
+      
+    }
+}
