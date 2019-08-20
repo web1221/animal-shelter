@@ -1,0 +1,32 @@
+img{
+  width: 250px;
+  height: 400px;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  color: brown;
+
+}
+
+.column{
+  width: 250px;
+  float: left;
+  padding: 50px;
+
+}
+
+.column p{
+  color: teal;
+  font-style: italic;
+
+}
